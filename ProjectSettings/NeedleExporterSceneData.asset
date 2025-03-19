@@ -25,10 +25,8 @@ MonoBehaviour:
     - ProjectPath: Needle/SampleScene
     BuilderScene: 
   - Path: Assets/Samples/Needle Engine/Hotspots.unity
-    Projects:
-    - ProjectPath: Library/Needle/Sample
+    Projects: []
     BuilderScene: 
   Projects:
   - ProjectPath: Needle/newProject
-  - ProjectPath: Library/Needle/Sample
   - ProjectPath: Needle/SampleScene
