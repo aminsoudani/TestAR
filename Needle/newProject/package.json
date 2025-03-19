@@ -9,7 +9,7 @@
     "gltf:transform": "npm run transform --prefix node_modules/@needle-tools/gltf-build-pipeline"
   },
   "dependencies": {
-	  "@needle-tools/engine": "^4.2.5",
+	  "@needle-tools/engine": "^4.3.2-beta.3",
 	  "three": "npm:@needle-tools/three@^0.169.5"
 	},
   "devDependencies": {
@@ -19,6 +19,6 @@
 	  "typescript": "^5.0.4",
 	  "vite": "<= 4.3.9",
 	  "vite-plugin-compression": "^0.5.1",
-	  "@needle-tools/editor-sync": "^2.0.3-beta"
+	  "@needle-tools/editor-sync": "^3.0.0-beta"
 	}
 }
