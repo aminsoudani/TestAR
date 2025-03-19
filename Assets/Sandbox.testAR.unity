@@ -498,7 +498,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.05818904, y: -0.889058, z: 0.11798185, w: 0.43848634}
   m_LocalPosition: {x: 9.75, y: 3.84, z: 7.48}
-  m_LocalScale: {x: 1.0000024, y: 1, z: 1.0000017}
+  m_LocalScale: {x: 1.0000026, y: 1, z: 1.0000017}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -642,9 +642,12 @@ MonoBehaviour:
   RemoteUrl: 
   AutoExport: 1
   AutoCompress: 1
-  Dependencies: []
+  Dependencies:
+  - Name: needle.hotspots
+    VersionOrPath: Packages/com.needle.engine-samples/Runtime/Hotspots/Scripts/Needle.Hotspots.npmdef
+    Guid: f28a022fa2c4fd44ab2f75edcae75ab6
   CloudName: 
-  CloudTeam: 
+  CloudTeam: org_ecilyjecaltt
 --- !u!4 &784234924
 Transform:
   m_ObjectHideFlags: 0
