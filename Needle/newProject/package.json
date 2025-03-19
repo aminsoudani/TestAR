@@ -11,7 +11,8 @@
   "dependencies": {
 	  "@needle-tools/engine": "^4.3.2-beta.3",
 	  "three": "npm:@needle-tools/three@^0.169.5",
-	  "needle.hotspots": "file:./../../Library/PackageCache/com.needle.engine-samples/Runtime/Hotspots/Scripts/Needle.Hotspots~"
+	  "needle.hotspots": "file:./../../Library/PackageCache/com.needle.engine-samples/Runtime/Hotspots/Scripts/Needle.Hotspots~",
+	  "configurator": "file:./../../Library/PackageCache/com.needle.engine-samples/Runtime/Configurator/Scripts/Configurator~"
 	},
   "devDependencies": {
 	  "@needle-tools/helper": "1.11.3",

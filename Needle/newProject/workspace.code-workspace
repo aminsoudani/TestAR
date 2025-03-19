@@ -11,6 +11,11 @@
       "name": "needle.hotspots",
       "path": "node_modules/needle.hotspots",
       "@needle:managed": true
+    },
+    {
+      "name": "configurator",
+      "path": "node_modules/configurator",
+      "@needle:managed": true
     }
   ],
   "settings": {
