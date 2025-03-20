@@ -720,92 +720,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Needle.Engine.Components.XRRig, Needle.Engine $ GlobalObjectId_V1-2-d541a43e59ef6e94b8483da1bfc954ea-519983825-0
   priority: 0
---- !u!1001 &608534418
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -36.17
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -3910990755373119420, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8771091787928289351, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_Name
-      value: GroundCubeQuad
-      objectReference: {fileID: 0}
-    - target: {fileID: 8771091787928289351, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8771091787928289351, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 608534421}
-  m_SourcePrefab: {fileID: -4161369568681901532, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
---- !u!1 &608534420 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8771091787928289351, guid: acb013f31cad638439273ba3bcca8c39, type: 3}
-  m_PrefabInstance: {fileID: 608534418}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &608534421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 608534420}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 385d14bf62e962549a8aeb84fdd6bad1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Needle.Engine.Components.XRFlag, Needle.Engine $ GlobalObjectId_V1-2-d541a43e59ef6e94b8483da1bfc954ea-608534421-0
-  VisibleIn: 5
 --- !u!1 &675901422
 GameObject:
   m_ObjectHideFlags: 0
@@ -1096,7 +1010,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.05818904, y: -0.889058, z: 0.11798185, w: 0.43848634}
   m_LocalPosition: {x: 9.75, y: 3.84, z: 7.48}
-  m_LocalScale: {x: 1.0000045, y: 1, z: 1.0000017}
+  m_LocalScale: {x: 1.0000052, y: 1, z: 1.0000017}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1213,7 +1127,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 2e98e47dfe5984000bfe476ddde7b8e6, type: 3}
       propertyPath: m_LocalScale.x
-      value: 15
+      value: 15.000004
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2e98e47dfe5984000bfe476ddde7b8e6, type: 3}
       propertyPath: m_LocalScale.y
@@ -1221,7 +1135,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2e98e47dfe5984000bfe476ddde7b8e6, type: 3}
       propertyPath: m_LocalScale.z
-      value: 15
+      value: 15.000004
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2e98e47dfe5984000bfe476ddde7b8e6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1503,7 +1417,7 @@ MonoBehaviour:
     VersionOrPath: Packages/com.needle.engine-samples/Runtime/Configurator/Scripts/Configurator.npmdef
     Guid: 8e641ef49619d8d499100b74b92b8281
   CloudName: 
-  CloudTeam: org_ecilyjecaltt
+  CloudTeam: org_x3jwm38iatss
 --- !u!4 &784234924
 Transform:
   m_ObjectHideFlags: 0
@@ -2230,6 +2144,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5613748922662223826, guid: 937ae7b8785219f4b9f89e8514326ba7, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613748922662223826, guid: 937ae7b8785219f4b9f89e8514326ba7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 35e16d841dfb686468f81bc6bb1000a8, type: 2}
     - target: {fileID: 6011642929155390941, guid: 937ae7b8785219f4b9f89e8514326ba7, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -3055,7 +2977,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -3843,6 +3765,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: G802U_bluepink_s2 bbbr_pockets and buttons in
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6bd8cdcd61be6d548a38bbfd3041e9f9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2194385952500681529, guid: 6bd8cdcd61be6d548a38bbfd3041e9f9, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -3909,6 +3835,7 @@ MonoBehaviour:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 764262889}
   - {fileID: 784234924}
   - {fileID: 1365103855}
   - {fileID: 1211803453}
@@ -3918,8 +3845,6 @@ SceneRoots:
   - {fileID: 1459212022}
   - {fileID: 1139443096}
   - {fileID: 969208505}
-  - {fileID: 608534418}
-  - {fileID: 764262889}
   - {fileID: 503859223}
   - {fileID: 1666095349}
   - {fileID: 492617967}
