@@ -16,6 +16,11 @@
       "name": "configurator",
       "path": "node_modules/configurator",
       "@needle:managed": true
+    },
+    {
+      "name": "needle.spatialaudio",
+      "path": "node_modules/needle.spatialaudio",
+      "@needle:managed": true
     }
   ],
   "settings": {
