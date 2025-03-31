@@ -27,6 +27,10 @@ MonoBehaviour:
   - Path: Assets/Samples/Needle Engine/Hotspots.unity
     Projects: []
     BuilderScene: 
+  - Path: Assets/Assets/RoomScene.unity
+    Projects:
+    - ProjectPath: Needle/newProject
+    BuilderScene: 
   Projects:
   - ProjectPath: Needle/newProject
   - ProjectPath: Needle/SampleScene
