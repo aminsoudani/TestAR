@@ -24,7 +24,7 @@
     }
   ],
   "settings": {
-    "window.title": "Template - ${rootName}${separator}${activeEditorShort}",
+    "window.title": "newProject",
     "files.exclude": {
       "package-lock.json": true,
       "**/.git": true,
