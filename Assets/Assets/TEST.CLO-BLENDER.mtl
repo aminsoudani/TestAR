@@ -1,0 +1,109 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material231720
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_1011.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_1011.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_1011.png
+newmtl Material1277
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_1001.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_1001.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_1001.png
+newmtl Material3303
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3303
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3394
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3303
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3394
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3303
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3394
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3303
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3303
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
+newmtl Material3394
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_Kd C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_diffuse_981.png
+map_bump C:/Users/mamin/Desktop/Reverse/OBJ-tpose-mixamo/TEST.CLO-BLENDER_normal_981.png
