@@ -601,7 +601,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f8f70baae516d4093ad1b617155a9919, type: 3}
       propertyPath: m_LocalScale.x
-      value: 157.13254
+      value: 157.1326
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8f70baae516d4093ad1b617155a9919, type: 3}
       propertyPath: m_LocalScale.y
@@ -609,7 +609,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8f70baae516d4093ad1b617155a9919, type: 3}
       propertyPath: m_LocalScale.z
-      value: 157.13254
+      value: 157.1326
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f8f70baae516d4093ad1b617155a9919, type: 3}
       propertyPath: m_LocalPosition.x
@@ -873,7 +873,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0.002030441, y: -0.14571117, z: -0.022433186, w: 0.9890707}
   m_LocalPosition: {x: -93.0612, y: 5.3, z: 58.191704}
-  m_LocalScale: {x: 18.793463, y: 0.06358501, z: 18.79359}
+  m_LocalScale: {x: 18.793463, y: 0.06358502, z: 18.79359}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1565,7 +1565,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.3885986, y: 0.6756723, z: 0.57302743, w: 0.25317535}
   m_LocalPosition: {x: -57.59, y: 2.0199993, z: 16.93}
-  m_LocalScale: {x: 1.6276021, y: 1.6276042, z: 1.6276032}
+  m_LocalScale: {x: 1.6276028, y: 1.6276045, z: 1.6276035}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2660,7 +2660,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.98129064, z: -0, w: -0.19253251}
   m_LocalPosition: {x: -10.28, y: 13.2, z: 4.8707}
-  m_LocalScale: {x: 190.24934, y: 190.24818, z: 190.24934}
+  m_LocalScale: {x: 190.24944, y: 190.24818, z: 190.24944}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1887807072}
@@ -4428,7 +4428,7 @@ MonoBehaviour:
     VersionOrPath: Packages/com.needle.engine-samples/Runtime/SpatialAudio/Needle.SpatialAudio.npmdef
     Guid: 12b514c7bd72e7542a18379e6e308d11
   CloudName: Sandbox.testAR
-  CloudTeam: org_x3jwm38iatss
+  CloudTeam: org_itb6wssanzj3
 --- !u!4 &1944905957
 Transform:
   m_ObjectHideFlags: 0

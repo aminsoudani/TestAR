@@ -31,6 +31,9 @@ MonoBehaviour:
     Projects:
     - ProjectPath: Needle/newProject
     BuilderScene: 
+  - Path: Assets/Customizable Skybox/Scenes/DemoScene.unity
+    Projects: []
+    BuilderScene: 
   Projects:
   - ProjectPath: Needle/newProject
   - ProjectPath: Needle/SampleScene
